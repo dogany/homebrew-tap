@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle'>
+  <channel>
+    <title>Cyclope</title>
+    <link>https://github.com/dogany/cyclope</link>
+    <description>Cyclope appcast</description>
+    <language>en</language>
+    <item>
+      <title>Cyclope 0.0.8</title>
+      <link>https://github.com/dogany/cyclope/releases/tag/release/v0.0.8</link>
+      <pubDate>Fri, 26 Jun 2026 15:35:39 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url='https://github.com/dogany/cyclope/releases/download/release/v0.0.8/Cyclope.dmg' sparkle:edSignature='EmiKGqlf1XPtSzBxrg1fNqfd7Hai69bJLJsQlhmSheGqEjCyZ60vny15QiusSyPsHlaDrnjrLOapiT9M80bOAg==' length='3930723' type='application/octet-stream'/>
+    </item>
+  </channel>
+</rss>
