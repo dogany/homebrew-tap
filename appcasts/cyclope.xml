@@ -6,6 +6,15 @@
     <description>Cyclope appcast</description>
     <language>en</language>
     <item>
+      <title>Cyclope 1.0.0</title>
+      <link>https://github.com/dogany/cyclope/releases/tag/release/v1.0.0</link>
+      <pubDate>Sat, 27 Jun 2026 17:12:10 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url='https://github.com/dogany/cyclope/releases/download/release/v1.0.0/Cyclope.dmg' sparkle:edSignature='gAgNXsk6HSm86lgxUQnN+PLZ7Yqvcjq70XfQzlNhnRCDB0rjdXjv1v3/VUTcbsMw1APdNm5vcxvQ8zGo8YCECw==' length='3940257' type='application/octet-stream'/>
+    </item>
+    <item>
       <title>Cyclope 0.0.8</title>
       <link>https://github.com/dogany/cyclope/releases/tag/release/v0.0.8</link>
       <pubDate>Fri, 26 Jun 2026 15:35:39 +0000</pubDate>

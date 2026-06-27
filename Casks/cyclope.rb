@@ -1,6 +1,6 @@
 cask "cyclope" do
-  version "0.0.8"
-  sha256 "aa977718e70d0e012832646286627d2fed666f44414a3a4e44657476dd62ee92"
+  version "1.0.0"
+  sha256 "5483a31ff765b85b793ab452e7bc96854fea9bfce2edfc9e13a11ccf8fa44a4f"
 
   url "https://github.com/dogany/cyclope/releases/download/release/v#{version}/Cyclope.dmg",
       verified: "github.com/dogany/cyclope/"
